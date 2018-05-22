@@ -1,6 +1,6 @@
-# szxvue
+# szxgits
 
-> A Vue.js project
+> vue
 
 ## Build Setup
 
